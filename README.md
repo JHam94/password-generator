@@ -15,6 +15,7 @@ This challenge required the creation of a random password generator based on the
 Link to deployed application: https://jham94.github.io/password-generator/
 
 PasswordGeneratorScreenshot1.png
+PasswordGeneratorScreenshot2.png
 
 
 
