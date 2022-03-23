@@ -12,10 +12,7 @@ This challenge required the creation of a random password generator based on the
 
 # Website
 
-Link to deployed application: 
+Link to deployed application: https://jham94.github.io/password-generator/
 
 
-/Users/johnhamborsky/Desktop/BootcampProjects/password-generator/Develop/images/PasswordGeneratorScreenshot1.png
-/Users/johnhamborsky/Desktop/BootcampProjects/password-generator/Develop/images/PasswordGeneratorScreenshot2.png
-/Users/johnhamborsky/Desktop/BootcampProjects/password-generator/Develop/images/PasswordGeneratorScreenshot3.png
 
