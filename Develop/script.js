@@ -30,7 +30,7 @@ function generatePassword() {
     return
   }
 
-  
+
 
   // provide options for types of characters used in generated password 
   var userNumbers = window.confirm("Would you like your password to contain numbers?")
@@ -90,3 +90,4 @@ function writePassword() {
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
+
